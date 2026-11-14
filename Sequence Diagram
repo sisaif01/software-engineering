@@ -1,0 +1,24 @@
+Purpose: This diagram illustrates how different users and system components communicate with each other to complete specific operations.
+
+Participants:
+Participant	Responsibility
+Admin	Adds and registers student details
+Student	Views courses, enrolls in courses and views attendance
+Teacher	Marks student attendance
+Smart Campus Interface	Receives user requests and displays results
+Application Controller	Processes requests and handles business logic
+PostgreSQL Database	Stores and retrieves system information
+
+Main processes illustrated:
+
+1. Student Registration: Admin submits student details. The system sends registration information to the controller, which stores the data in the PostgreSQL database and returns confirmation.
+
+2. Course Enrollment: Students view available courses and submit enrollment requests. The system checks enrollment status and saves the enrollment if the student is not already enrolled.
+
+3. Attendance Management: Teachers mark student attendance. The application processes the request and saves attendance records in the database.
+
+4. View Attendance: Students request their attendance information. The system retrieves attendance records and displays an attendance report.
+
+Important UML element: The alt combined fragment represents alternative conditions:
+- [Not Already Enrolled]: The system saves the enrollment.
+- [Already Enrolled]: The system displays an already-enrolled message.
