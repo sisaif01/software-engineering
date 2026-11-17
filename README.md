@@ -99,7 +99,7 @@ Smart-Campus-Management-System/
 ├── Documentation/
 ├── Diagrams/
 │   ├── Sequence_Diagram.png
-│   ├── Use_Case_Diagram.png
+│   ├──Use_case Diagram.png
 │   └── System_Architecture.png
 ├── Source_Code/
 └── Screenshots/
