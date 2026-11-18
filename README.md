@@ -54,7 +54,7 @@ The diagram also illustrates the `<<include>>` relationships between attendance 
 
 ### 2.3 System Architecture Diagram
 
-**File:** `Diagrams/System_Architecture.png`
+**File:** `Diagrams/System_Architecture.png` https://ibb.co/0pJDhvHD
 
 The System Architecture Diagram presents the layered architecture of the Smart Campus Management System.
 
