@@ -29,7 +29,7 @@ The diagram also demonstrates alternative enrollment conditions, including succe
 
 ### 2.2 Use Case Diagram
 
-**File:** `Diagrams/Use_Case_Diagram.png` https://ibb.co/kgXsymPZ
+**File:** `Diagrams/Use_Case_Diagram.png` https://ibb.co/zTYP9m8h
 
 The Use Case Diagram illustrates the functional requirements of the Smart Campus Management System and the interactions between its main actors.
 
