@@ -14,7 +14,7 @@ This repository includes three important diagrams that describe the system's fun
 
 ### 2.1 Sequence Diagram
 
-**File:** `Diagrams/Sequence_Diagram.png` https://ibb.co/r2mn8SP1
+**File:** `Diagrams/Sequence_Diagram.png` https://ibb.co/f5KGSS9
 
 The Sequence Diagram illustrates the interactions between system users, the Smart Campus Interface, Application Controller, and PostgreSQL Database.
 
